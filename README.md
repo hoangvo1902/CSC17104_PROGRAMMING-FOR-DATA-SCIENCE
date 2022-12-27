@@ -1,7 +1,7 @@
 # GROUP09_CSC17104_20KHDL2
 # PROGRAMMING FOR DATA SCIENCE
 
-**Googlesheet:** https://docs.google.com/spreadsheets/d/1_Z-DMsoPAw0aMPlpzBBSJ6653yKeJ4SZSSvdtEm_LgU/edit?usp=sharing**
+**Googlesheet:** https://docs.google.com/spreadsheets/d/1_Z-DMsoPAw0aMPlpzBBSJ6653yKeJ4SZSSvdtEm_LgU/edit?usp=sharing
 
 (Where we notice the work of all team members)
 
