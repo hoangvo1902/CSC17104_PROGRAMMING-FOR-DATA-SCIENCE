@@ -7,7 +7,7 @@
 
 **<font size="4">INTRODUCTION</font>**
 
-This is our work about Data Science and STEM Salarie which is our Final Project of Programming for Data Science subject in the first semester 2022 at University of Science, VNU.
+This is our work about Data Science and STEM Salarie which is our Final Project of Programming for Data Science subject in the first semester 2022 - 2023 at University of Science, VNU.
 
 **<font size="4">DESCRIPTION</font>**
 
