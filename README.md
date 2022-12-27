@@ -11,7 +11,7 @@ This is our work about Data Science and STEM Salarie which is our Final Project 
 
 **<font size="4">DESCRIPTION</font>**
 
-Our duty is finding a good dataset, clean it up(data preprocessing), analyse explore something useful from this datset and visualize it.
+Our duty is finding a good dataset, clean it up(data preprocessing), analyse explore something useful from this dataset and visualize it.
 
 **<font size="4">CONTRIBUTORS</font>**
 
