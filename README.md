@@ -1,4 +1,4 @@
-# GROUP09_CSC17104_20KHDL2
+# GROUP08_CSC17104_20KHDL2
 # PROGRAMMING FOR DATA SCIENCE
 
 **Googlesheet:** https://docs.google.com/spreadsheets/d/1_Z-DMsoPAw0aMPlpzBBSJ6653yKeJ4SZSSvdtEm_LgU/edit?usp=sharing
@@ -18,4 +18,5 @@ Our duty is finding a good dataset, clean it up(data preprocessing), analyse, ex
 **Github link:** https://github.com/hoangvo1902 (Võ Văn Hoàng)
 
 **Github link:** https://github.com/42nvtn (Ngô Văn Trung Nguyên)
+
 
